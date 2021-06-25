@@ -2816,7 +2816,6 @@ input, select, textarea {
 		.features li {
 			width: calc(33.33333% - 2em);
 			margin-left: 2em;
-			margin-top: 3em;
 			padding: 0;
 		}
 
@@ -3786,5 +3785,5 @@ input, select, textarea {
 
 		.skills{
 			font-size: 117px;
-			margin-left: 70px;
+			margin-left: 30px;
 		}
