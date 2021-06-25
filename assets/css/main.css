@@ -2814,13 +2814,10 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(33.33333% - 2em);
 			padding: 0;
 		}
 
-		.features{
-			margin-left: 2em;
-		}
+		
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
 				margin-top: 0;
@@ -3789,4 +3786,8 @@ input, select, textarea {
 		.skills{
 			font-size: 117px;
 			margin-left: 30px;
+		}
+
+		.project-title{
+			
 		}
